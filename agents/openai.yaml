@@ -1,0 +1,4 @@
+interface:
+  display_name: "游戏图片整理"
+  short_description: "按游戏和角色整理本地图片，查找完全重复文件并生成可检查的归档清单"
+  default_prompt: "使用 $organize-game-images 整理 D:\\AI\\原图，按游戏和角色生成分类清单，并找出完全重复的图片。"
